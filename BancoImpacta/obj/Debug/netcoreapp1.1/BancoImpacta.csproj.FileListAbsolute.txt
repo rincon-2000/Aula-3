@@ -1,0 +1,10 @@
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\bin\Debug\netcoreapp1.1\BancoImpacta.deps.json
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\bin\Debug\netcoreapp1.1\BancoImpacta.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\bin\Debug\netcoreapp1.1\BancoImpacta.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\bin\Debug\netcoreapp1.1\BancoImpacta.dll
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\bin\Debug\netcoreapp1.1\BancoImpacta.pdb
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\obj\Debug\netcoreapp1.1\BancoImpacta.csprojAssemblyReference.cache
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\obj\Debug\netcoreapp1.1\BancoImpacta.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\obj\Debug\netcoreapp1.1\BancoImpacta.AssemblyInfo.cs
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\obj\Debug\netcoreapp1.1\BancoImpacta.dll
+C:\Users\fernando.rincon\C#\Aula3\BancoImpacta\obj\Debug\netcoreapp1.1\BancoImpacta.pdb

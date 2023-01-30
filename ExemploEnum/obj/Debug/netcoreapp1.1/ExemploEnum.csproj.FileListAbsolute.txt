@@ -1,0 +1,9 @@
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\bin\Debug\netcoreapp1.1\ExemploEnum.deps.json
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\bin\Debug\netcoreapp1.1\ExemploEnum.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\bin\Debug\netcoreapp1.1\ExemploEnum.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\bin\Debug\netcoreapp1.1\ExemploEnum.dll
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\bin\Debug\netcoreapp1.1\ExemploEnum.pdb
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\obj\Debug\netcoreapp1.1\ExemploEnum.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\obj\Debug\netcoreapp1.1\ExemploEnum.AssemblyInfo.cs
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\obj\Debug\netcoreapp1.1\ExemploEnum.dll
+C:\Users\fernando.rincon\C#\Aula3\ExemploEnum\obj\Debug\netcoreapp1.1\ExemploEnum.pdb

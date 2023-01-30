@@ -1,0 +1,10 @@
+C:\Users\fernando.rincon\C#\Aula3\Aula3\bin\Debug\netcoreapp1.1\Aula3.deps.json
+C:\Users\fernando.rincon\C#\Aula3\Aula3\bin\Debug\netcoreapp1.1\Aula3.runtimeconfig.json
+C:\Users\fernando.rincon\C#\Aula3\Aula3\bin\Debug\netcoreapp1.1\Aula3.runtimeconfig.dev.json
+C:\Users\fernando.rincon\C#\Aula3\Aula3\bin\Debug\netcoreapp1.1\Aula3.dll
+C:\Users\fernando.rincon\C#\Aula3\Aula3\bin\Debug\netcoreapp1.1\Aula3.pdb
+C:\Users\fernando.rincon\C#\Aula3\Aula3\obj\Debug\netcoreapp1.1\Aula3.csprojAssemblyReference.cache
+C:\Users\fernando.rincon\C#\Aula3\Aula3\obj\Debug\netcoreapp1.1\Aula3.csproj.CoreCompileInputs.cache
+C:\Users\fernando.rincon\C#\Aula3\Aula3\obj\Debug\netcoreapp1.1\Aula3.AssemblyInfo.cs
+C:\Users\fernando.rincon\C#\Aula3\Aula3\obj\Debug\netcoreapp1.1\Aula3.dll
+C:\Users\fernando.rincon\C#\Aula3\Aula3\obj\Debug\netcoreapp1.1\Aula3.pdb
